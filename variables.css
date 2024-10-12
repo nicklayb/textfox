@@ -2,7 +2,7 @@
   --accent: var(--toolbarbutton-icon-fill);
   --bg: var(--lwt-accent-color);
   --border: var(--toolbar-field-background-color);
-  --rounding: 0px;
+  --rounding: 4px;
   --margin: 0.8rem;
   --width: 2px;
 
